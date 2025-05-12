@@ -1,4 +1,7 @@
 # workers
+```https://github.com/yonggekkk```
+```https://github.com/cmliu```
+```https://github.com/6Kmfi6HP```
 ## 🔑 变量说明
 
 | 变量名 | 示例 | 必填 | 备注 | YT |
